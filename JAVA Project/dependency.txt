@@ -1,0 +1,4 @@
+Dependencies Used
+
+1.MySQL
+2.Jdbc connector
